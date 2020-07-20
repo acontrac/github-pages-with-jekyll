@@ -1,3 +1,3 @@
-# Welcome to my blog
+# About me
 
-I'm glad you are here. I plan to talk about ...
+I am an undergraduate at Caltech studying physics and philosophy. I am interested algorithmic fairness, differential privacy, and responsible recommendation systems. 
